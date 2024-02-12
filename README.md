@@ -5,6 +5,8 @@ The point of these bookmarklets is simply to copy long search query strings to t
 
 The main usage for me is to be able to search groups of sites all at once based on category.
 
+Note that these are formatted to use with Firefox and use the DuckDuckGo search engine, but it's likely they will work with others browsers/search engines with minor tweaks.
+
 ## Setup
 
 1) Create a new bookmark on your firefox bookmarks bar.
