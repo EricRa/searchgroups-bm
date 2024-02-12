@@ -1,7 +1,8 @@
-// Copy the full text below starting with and including "javascript:" into the URL // field the bookmark you create.
+// Copy the full text below starting with and including "javascript:" into
+// the URL field of the bookmark you create.
 
 // Note that !safeoff removes Safe Search in DuckDuckGo, and this can be
-// removed or replaces with !safeon to enable it.
+// removed or replaced with !safeon to enable it.
 
 // See the DDG search syntax page for more advanced query options:
 // https://duckduckgo.com/duckduckgo-help-pages/results/syntax/
